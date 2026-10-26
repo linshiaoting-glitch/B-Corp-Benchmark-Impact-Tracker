@@ -1,0 +1,15 @@
+pillar,metric,year,value,unit,source,data_quality
+S,Employee engagement score,2023,71.0,score /100,W&B Annual Impact Report 2024 (FY2023) p.31,Self-reported survey
+S,Employee engagement score,2024,84.0,score /100,W&B Annual Impact Report 2025 (FY2024) p.35,Self-reported survey; 76% positive
+S,Women in leadership team,2023,50.0,% (minimum; 'over 50%'),W&B Annual Impact Report 2024 (FY2023) p.29,Threshold only
+S,Headcount (derived),2023,104.0,employees,"W&B Annual Impact Report 2024 (FY2023) p.22 (7,619 t ÷ 73 t/employee)",Derived estimate
+S,Brands approved — Happy Worker Guarantee,2024,614.0,brands,W&B Annual Impact Report 2025 (FY2024) p.26,Self-declaration; audit docs for higher-risk suppliers only
+S,Brands vetted for Guarantees,2024,800.0,brands,W&B Annual Impact Report 2025 (FY2024) p.10,Company-reported
+S,Brand community size,2024,2000.0,brands (approx.),"W&B Annual Impact Report 2025 (FY2024) p.44 ('near 2,000')",Approximate
+E,Brands with carbon-reduction guarantee,2023,36.0,brands,W&B Annual Impact Report 2024 (FY2023),Company-reported
+E,Brands with carbon-reduction guarantee,2024,38.0,brands,W&B Annual Impact Report 2025 (FY2024) p.20,Company-reported
+G,B Impact overall score,2021,81.0,points,W&B B Corp Impact Report 2023 p.5,Verified by B Lab
+G,B Impact overall score,2025,108.8,points,B Lab public directory (bcorporation.net),Verified by B Lab
+G,Independent non-executive directors on Board,2024,,yes (number n/d),W&B Annual Impact Report 2025 (FY2024) p.12,Qualitative only
+G,Remuneration Committee overseeing pay equity,2024,,yes,W&B Annual Impact Report 2025 (FY2024) p.12,Qualitative only
+G,Third-party assurance of ESG data,2024,,none,W&B Annual Impact Report 2025 (FY2024),No assurance statement found

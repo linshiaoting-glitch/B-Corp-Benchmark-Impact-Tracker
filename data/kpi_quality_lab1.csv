@@ -1,0 +1,42 @@
+kpi,pillar,value,unit,year,accuracy,completeness,timeliness,consistency,quality_score,grade,disclosed
+Scope 1 GHG Emissions,Environmental,0,tCO₂e,FY2024,15,25,25,0,65,Acceptable,Yes/Partial
+Scope 2 GHG Emissions (Market-Based),Environmental,0,tCO₂e,FY2024,15,25,25,0,65,Acceptable,Yes/Partial
+Scope 2 GHG Emissions (Location-Based),Environmental,30,tCO₂e,FY2024,15,25,25,0,65,Acceptable,Yes/Partial
+Scope 3 GHG Emissions (Total),Environmental,10300,tCO₂e,FY2024,15,25,25,0,65,Acceptable,Yes/Partial
+Carbon Intensity,Environmental,143.1,tCO₂e / £m GMV,FY2024,15,25,25,0,65,Acceptable,Yes/Partial
+Total Energy Consumption,Environmental,Not disclosed,MWh,—,0,0,0,0,0,Insufficient,No
+Renewable Energy Percentage,Environmental,Not quantified,%,FY2024,5,5,25,0,35,Insufficient,Yes/Partial
+Energy Intensity,Environmental,Not disclosed,GJ per £m GMV,—,0,0,0,0,0,Insufficient,No
+Total Water Withdrawal,Environmental,Not disclosed,Megalitres,—,0,0,0,0,0,Insufficient,No
+Water Recycled / Reused,Environmental,Not disclosed,%,—,0,0,0,0,0,Insufficient,No
+Total Waste Generated,Environmental,Not disclosed,Metric tonnes,—,0,0,0,0,0,Insufficient,No
+Waste Diversion Rate,Environmental,Not disclosed,%,—,0,0,0,0,0,Insufficient,No
+Hazardous Waste Generated,Environmental,Not disclosed,Metric tonnes,—,0,0,0,0,0,Insufficient,No
+Total Number of Employees,Social,104,Headcount (derived),FY2023,15,10,15,0,40,Use with Caution,Yes/Partial
+Women in Total Workforce,Social,Not disclosed,%,—,0,0,0,0,0,Insufficient,No
+Women in Senior Management,Social,>50,% (threshold),FY2023,15,5,15,0,35,Insufficient,Yes/Partial
+Women on Board (%),Social,Not disclosed,%,—,0,0,0,0,0,Insufficient,No
+Gender Pay Gap (Unadjusted),Social,Not disclosed,%,—,0,0,0,0,0,Insufficient,No
+Total Recordable Incident Rate (TRIR),Social,Not disclosed,per 200k hrs,—,0,0,0,0,0,Insufficient,No
+Lost Time Injury Frequency Rate (LTIFR),Social,Not disclosed,per 1M hrs,—,0,0,0,0,0,Insufficient,No
+Voluntary Employee Turnover Rate,Social,Not disclosed,%,—,0,0,0,0,0,Insufficient,No
+Average Training Hours per Employee,Social,Not disclosed,Hours/employee,—,0,0,0,0,0,Insufficient,No
+Employee Engagement Score,Social,84,Score /100,FY2024,15,15,25,0,55,Use with Caution,Yes/Partial
+Supply Chain: % Brands Approved under Happy Worker Guarantee,Social,0.307,% of brands (proxy),FY2024,5,10,25,0,40,Use with Caution,Yes/Partial
+Total Board Size,Governance,Not disclosed,Directors,—,0,0,0,0,0,Insufficient,No
+Board Independence (% Independent Directors),Governance,Not quantified,%,FY2024,5,0,25,0,30,Insufficient,Yes/Partial
+Women on Board,Governance,Not disclosed,%,—,0,0,0,0,0,Insufficient,No
+Average Board Tenure,Governance,Not disclosed,Years,—,0,0,0,0,0,Insufficient,No
+CEO Pay Ratio (CEO to Median Employee),Governance,Not disclosed,Ratio,—,0,0,0,0,0,Insufficient,No
+ESG Metrics in Executive Incentive Pay (Y/N),Governance,Not disclosed,Y/N,—,0,0,0,0,0,Insufficient,No
+Number of Substantiated Ethics / Compliance Violations,Governance,Not disclosed,Count,—,0,0,0,0,0,Insufficient,No
+Anti-corruption Policy in Place (Y/N),Governance,Not disclosed,Y/N,—,0,0,0,0,0,Insufficient,No
+ESG Assurance Provider,Governance,None,Provider name,FY2024,5,10,25,0,40,Use with Caution,Yes/Partial
+Annual Revenue (GMV used as proxy),Financial,72.2,GBP £m (platform GMV),FY2024,15,15,25,0,55,Use with Caution,Yes/Partial
+EBITDA Margin,Financial,Not disclosed,%,—,0,0,0,0,0,Insufficient,No
+Capital Expenditure,Financial,Not disclosed,£m,—,0,0,0,0,0,Insufficient,No
+Market Capitalization,Financial,Not disclosed,£m,—,0,0,0,0,0,Insufficient,No
+R&D Expenditure,Financial,Not disclosed,£m,—,0,0,0,0,0,Insufficient,No
+"Total GHG Emissions (Scope 1+2+3, market-based)",Environmental,10330,tCO₂e,FY2024,15,25,25,0,65,Acceptable,Yes/Partial
+B Impact Assessment — Overall Score,Governance,108.8,Points (80 = certification threshold),2025 recertification,25,25,25,25,100,High Quality,Yes/Partial
+B Impact Assessment — Governance Score,Governance,19,Points,2025 recertification,25,25,25,25,100,High Quality,Yes/Partial

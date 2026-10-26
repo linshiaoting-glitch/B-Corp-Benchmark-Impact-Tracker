@@ -1,0 +1,7 @@
+year,category,ghg_protocol_category,tco2e,method,source
+2023,Freight (Cat. 9 downstream transport),9,4500,Hybrid: 59% activity / 41% spend-based,W&B Annual Impact Report 2025 (FY2024) p.24
+2023,Digital advertising (Cat. 1),1,1400,Spend-based,W&B Annual Impact Report 2025 (FY2024) p.24
+2023,Service purchases + other (residual),1,690,"Residual = total − itemised (chart: services ~7%, other ~3%)",Calculated
+2024,Freight (Cat. 9 downstream transport),9,8000,Hybrid: 26% activity / 74% spend-based,W&B Annual Impact Report 2025 (FY2024) p.24
+2024,Digital advertising (Cat. 1),1,1570,Spend-based,W&B Annual Impact Report 2025 (FY2024) p.24
+2024,Service purchases + other (residual),1,730,Residual = total − itemised (service purchases −27% YoY),Calculated

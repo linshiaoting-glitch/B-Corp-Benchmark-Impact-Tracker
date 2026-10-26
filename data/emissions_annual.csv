@@ -1,0 +1,4 @@
+year,version,scope1_t,scope2_location_t,scope2_market_t,scope3_t,total_reported_t,gmv_gbp_m,intensity_t_per_gbp_m,freight_activity_data_share,source,note
+2023,Original (as first published),0,,26,7594,7619,62.8,,,W&B Annual Impact Report 2024 (FY2023) p.22,Scope 2 reported as a single figure (26 t); method not stated. Superseded by the restatement.
+2023,Restated,0,50.0,60,6590,6650,62.8,105.9,0.59,W&B Annual Impact Report 2025 (FY2024) p.52–53,Restated for a corrected air-freight emission factor and updated factors (Scope 3 −13.2%).
+2024,Reported,0,30.0,0,10300,10330,72.2,143.1,0.26,"W&B Annual Impact Report 2025 (FY2024) p.21, 53",Rounded to 10 t in the report (0.03k / 0.00k). Total appears to add location-based Scope 2.

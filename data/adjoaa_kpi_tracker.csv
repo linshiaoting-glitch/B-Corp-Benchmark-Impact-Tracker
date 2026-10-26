@@ -1,0 +1,22 @@
+pillar,kpi,unit,direction,frequency,owner,baseline_period,baseline_value,current_period,current_value,target_value,target_period,wb_benchmark,notes
+Governance,Mission & stakeholder commitment in Articles (B Corp legal requirement),Yes/No,yes,One-off,CEO,,,,,Yes,Before submission,Yes — Mission Locked (+10 pts),Required for certification
+Governance,ESG KPIs reviewed by leadership,times / year,higher,Quarterly,CEO,,,,,4,2026,Monthly at Board (DE&I) ,W&B reports KPIs in board meetings
+Governance,Annual impact report published,Yes/No,yes,Annual,Sustainability lead,,,,,Yes,2026,"Yes, every year since 2022",
+Governance,B Impact Assessment score (self-assessed),points,higher,Quarterly,Sustainability lead,,,,,80,Submission,81.0 first cert (2021) → 108.8 (2025),See B Impact readiness tab
+Workers,Team engagement score,score /100,higher,Annual,People lead,,,,,70,2026,84 (2024),Remote team: include contractors
+Workers,Team size (incl. contractors),people,info,Annual,People lead,,,,,,,"~104 employees (2023, derived)",
+Workers,Women in leadership,%,higher,Annual,People lead,,,,,50,2026,>50% (2023),
+Workers,Pay-equity review completed,Yes/No,yes,Annual,CEO,,,,,Yes,2026,Yes (reported to Remuneration Committee),
+Community,Brands on platform,brands,higher,Quarterly,Brand team,Nov 2021,20,2025,100,,,"~2,000 (2024)","Public figure: 'over 100 brands' (ICT Pulse, Sep 2025)"
+Community,Countries represented,countries,higher,Annual,Brand team,,,2025,25,,,—,"Public figure (ICT Pulse, Sep 2025)"
+Community,Brands vetted against ethics & sustainability criteria,% of brands,higher,Quarterly,Sustainability lead,,,,,100,2026,"800 of ~2,000 vetted in 2024 (~40%); goal 100%",
+Community,Brands with signed supplier / fair-work declaration,% of brands,higher,Quarterly,Sustainability lead,,,,,100,2026,"614 of ~2,000 (~31%) Happy Worker approved",W&B made it mandatory
+Community,Community investment,% of profits,higher,Annual,CEO,,,,,1,Annual,Paid volunteering; charity partnerships,ADJOAA public commitment: 1% of profits
+Environment,GHG footprint measured (Scope 1–3),Yes/No,yes,Annual,Sustainability lead,,,,,Yes,FY2025,Yes since FY2023 (Greenly),First step before any target
+Environment,Total emissions,tCO₂e,lower,Annual,Sustainability lead,,,,,,,"10,330 t (FY2024)",
+Environment,Emissions intensity,tCO₂e / £m GMV,lower,Annual,Sustainability lead,,,,,,,143.1 (FY2024); 105.9 (FY2023),Use the same definition as W&B to compare
+Environment,Shipments with carrier activity data (not spend-based),%,higher,Quarterly,Ops lead,,,,,80,2026,26% (FY2024); 59% (FY2023),W&B's biggest data-quality lesson
+Environment,Products made to order,% of products,higher,Quarterly,Brand team,,,,,,,—,ADJOAA: 'most items made to order' — circularity strength
+Environment,Returns rate,% of orders,lower,Quarterly,Ops lead,,,,,,,Returns analysis planned (2025 roadmap),Returns drive freight emissions
+Environment,Plastic-free / recycled packaging,% of orders,higher,Quarterly,Ops lead,,,,,100,2026,—,
+Customers,Products with a verified sustainability attribute,% of products,higher,Quarterly,Brand team,,,,,,,"2,100+ Guarantees awarded (2024)",W&B Guarantees index
